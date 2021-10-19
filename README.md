@@ -19,11 +19,8 @@ I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently l
 - 🤔 I’m looking for help with React Js webapp being hosted serverless in either AWS or heroku.
 
 ## 📫 How to reach me:        
-</br>
 - GitHub: https://github.com/kavichelvan
-</br>
 - LinkedIn: https://www.linkedin.com/in/kavichelvan/
-</br>
 - Email: p.kavichelvan@gmail.com 
 
 ## 💼 Stacks I work with
