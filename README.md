@@ -1,7 +1,8 @@
-<p align=”center”>
+<!-- <p align=”center”>
 <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/41743539/137835844-6916a862-78a2-4fa5-a72f-021b052ead14.png alt=”my banner”>
 </p>
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
+![Black Technology LinkedIn Banner (2)](https://user-images.githubusercontent.com/41743539/137836249-4d97f59b-1aa9-46e5-81bc-56b2830fd63e.png)
 ### Hi there 👋
 I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently learning python.
 - 🔭 I’m currently working on AWS, MongoDB, NodeJS and React.
