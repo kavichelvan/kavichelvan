@@ -35,7 +35,7 @@ I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently l
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 📈 GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=kavichelvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavichelvan&layout=compact)](https://github.com/kavichelvan)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kavichelvan&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavichelvan&layout=compact)](https://github.com/kavichelvan)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavichelvan&repo=aws-cicd)
 <!--
