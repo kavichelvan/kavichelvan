@@ -8,8 +8,9 @@ I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently l
 - 🔭 I’m currently working on AWS, MongoDB, NodeJS and React.
 - 🌱 I’m currently learning AWS and Python.
 - 🤔 I’m looking for help with React Js webapp being hosted serverless in either AWS or heroku.
-- 📫 How to reach me: Email: p.kavichelvan@gmail.com
-</br>                      LinkedIn: https://www.linkedin.com/in/kavichelvan/
+- 📫 How to reach me: 
+</br>        Email: p.kavichelvan@gmail.com
+</br>   LinkedIn: https://www.linkedin.com/in/kavichelvan/
 
 ## 💼 Stacks I work with
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -31,8 +32,7 @@ I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently l
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kavichelvan)
