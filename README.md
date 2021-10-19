@@ -12,13 +12,13 @@ Hi there</a> 👋
 I'm a Developer 💻!
 </h2> 
 
-### 😄 About me 
+# 😄 About me 
 I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently learning python.
 - 🔭 I’m currently working on AWS, MongoDB, NodeJS and React.
 - 🌱 I’m currently learning AWS and Python.
 - 🤔 I’m looking for help with React Js webapp being hosted serverless in either AWS or heroku.
 
-# 📫 How to reach me:        
+## 📫 How to reach me:        
 </br>  
 <a><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/gmail1.png" alt="kavi | GMAIL" width="21px"/></a>
 Email: p.kavichelvan@gmail.com
@@ -30,7 +30,7 @@ GitHub: https://github.com/kavichelvan
 LinkedIn: https://www.linkedin.com/in/kavichelvan/
 
 ## 💼 Stacks I work with
-# Current
+### Current
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -40,7 +40,7 @@ LinkedIn: https://www.linkedin.com/in/kavichelvan/
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 </br>
 
-# Historical
+### Historical
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -53,7 +53,7 @@ LinkedIn: https://www.linkedin.com/in/kavichelvan/
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 </br>
 
-# Others
+### Others
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) -->
