@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently learning python.
+🔭 I’m currently working on AWS, MongoDB, NodeJS and React.
+🌱 I’m currently learning AWS and Python.
+🤔 I’m looking for help with React Js webapp being hosted serverless in either AWS or heroku.
+📫 How to reach me: Email: p.kavichelvan@gmail.com
+                    LinkedIn: https://www.linkedin.com/in/kavichelvan/
 <!--
 **kavichelvan/kavichelvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
