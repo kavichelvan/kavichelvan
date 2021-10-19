@@ -3,6 +3,13 @@
 </p>
 <img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
 ![Black Technology LinkedIn Banner (2)](https://user-images.githubusercontent.com/41743539/137836249-4d97f59b-1aa9-46e5-81bc-56b2830fd63e.png)
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
 ### Hi there 👋
 I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently learning python.
 - 🔭 I’m currently working on AWS, MongoDB, NodeJS and React.
