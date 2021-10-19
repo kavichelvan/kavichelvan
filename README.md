@@ -27,7 +27,7 @@ GitHub: https://github.com/kavichelvan
 LinkedIn: https://www.linkedin.com/in/kavichelvan/
 </br>
 <a href="p.kavichelvan@gmail.com"><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/gmail1.png" alt="kavi | GMAIL" width="21px"/></a>
-Email: p.kavichelvan@gmail.com
+Email: p.kavichelvan@gmail.com 
 
 ## 💼 Stacks I work with
 ### Current
