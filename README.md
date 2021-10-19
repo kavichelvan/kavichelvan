@@ -9,8 +9,8 @@ I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently l
 - 🌱 I’m currently learning AWS and Python.
 - 🤔 I’m looking for help with React Js webapp being hosted serverless in either AWS or heroku.
 - 📫 How to reach me: Email: p.kavichelvan@gmail.com
-                      LinkedIn: https://www.linkedin.com/in/kavichelvan/
-Stacks I work with:
+</br>                      LinkedIn: https://www.linkedin.com/in/kavichelvan/
+</br> Stacks I work with:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
@@ -32,8 +32,10 @@ Stacks I work with:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-- ![Github stats](https://github-readme-stats.vercel.app/api?username=kavichelvan) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavichelvan&repo=aws-cicd)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavichelvan&layout=compact)](https://github.com/kavichelvan)
+
+## 📈 GitHub Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=kavichelvan) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavichelvan&repo=aws-cicd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavichelvan&layout=compact)](https://github.com/kavichelvan)
 <!--
 **kavichelvan/kavichelvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
