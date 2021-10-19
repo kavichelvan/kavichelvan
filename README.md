@@ -5,6 +5,9 @@ I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently l
 - 🤔 I’m looking for help with React Js webapp being hosted serverless in either AWS or heroku.
 - 📫 How to reach me: Email: p.kavichelvan@gmail.com
                      - LinkedIn: https://www.linkedin.com/in/kavichelvan/
+![Github stats](https://github-readme-stats.vercel.app/api?username=kavichelvan)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavichelvan&repo=aws-cicd)
+
 <!--
 **kavichelvan/kavichelvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
