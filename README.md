@@ -10,7 +10,9 @@ I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently l
 - 🤔 I’m looking for help with React Js webapp being hosted serverless in either AWS or heroku.
 # 📫 How to reach me: 
 </br>        Email: p.kavichelvan@gmail.com
-</br>   <a href=”https://www.linkedin.com/in/kavichelvan/"><img align=”left” src=”https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/linkedin.png" alt=”Yu Shi | LinkedIn” width=”21px”/></a>LinkedIn: https://www.linkedin.com/in/kavichelvan/
+</br>   
+<a href="https://www.linkedin.com/in/kavichelvan/"><img align="left” src=”https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/linkedin.svg" alt="kavi | LinkedIn” width="21px”/></a>
+LinkedIn: https://www.linkedin.com/in/kavichelvan/
 
 ## 💼 Stacks I work with
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
