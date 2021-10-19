@@ -3,8 +3,9 @@
 </p>
 <img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
 ![Black Technology LinkedIn Banner (2)](https://user-images.githubusercontent.com/41743539/137836249-4d97f59b-1aa9-46e5-81bc-56b2830fd63e.png)
+
 <h3 align="center">
-Welcome</a> 👋
+Hi there</a> 👋
 </h3>
 
 <h2 align="center">
@@ -16,10 +17,12 @@ I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently l
 - 🔭 I’m currently working on AWS, MongoDB, NodeJS and React.
 - 🌱 I’m currently learning AWS and Python.
 - 🤔 I’m looking for help with React Js webapp being hosted serverless in either AWS or heroku.
-# 📫 How to reach me: 
-</br>        Email: p.kavichelvan@gmail.com
+# 📫 How to reach me:        
 </br>  
-
+<a><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/gmail.png" alt="kavi | GMAIL" width="21px"/></a>
+Email: p.kavichelvan@gmail.com
+<a href="https://github.com/kavichelvan/"><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/github.png" alt="kavi | LinkedIn" width="21px"/></a>
+GitHub: https://github.com/kavichelvan
 <a href="https://www.linkedin.com/in/kavichelvan/"><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/linkedin.svg" alt="kavi | LinkedIn" width="21px"/></a>
 LinkedIn: https://www.linkedin.com/in/kavichelvan/
 
