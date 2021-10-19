@@ -22,8 +22,10 @@ I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently l
 </br>
 <a href="https://github.com/kavichelvan/"><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/github.png" alt="kavi | LinkedIn" width="21px"/></a>
 GitHub: https://github.com/kavichelvan
+</br>
 <a href="https://www.linkedin.com/in/kavichelvan/"><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/linkedin.svg" alt="kavi | LinkedIn" width="21px"/></a>
 LinkedIn: https://www.linkedin.com/in/kavichelvan/
+</br>
 <a href="p.kavichelvan@gmail.com"><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/gmail1.png" alt="kavi | GMAIL" width="21px"/></a>
 Email: p.kavichelvan@gmail.com 
 
