@@ -26,7 +26,7 @@ GitHub: https://github.com/kavichelvan
 <a href="https://www.linkedin.com/in/kavichelvan/"><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/linkedin.svg" alt="kavi | LinkedIn" width="21px"/></a>
 LinkedIn: https://www.linkedin.com/in/kavichelvan/
 </br>
-<a href="p.kavichelvan@gmail.com"><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/gmail1.png" alt="kavi | GMAIL" width="18px"/></a>
+<a href="p.kavichelvan@gmail.com"><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/edit1/images/gmail1.png" alt="kavi | GMAIL" width="21px"/></a>
 Email: p.kavichelvan@gmail.com
 
 ## 💼 Stacks I work with
