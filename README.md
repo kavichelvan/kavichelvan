@@ -20,11 +20,11 @@ I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently l
 
 ## 📫 How to reach me:        
 </br>
-<a href="https://github.com/kavichelvan/"><img align="left" src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/main/images/github.png" alt="kavi | GitHub" width="21px"/></a> GitHub: https://github.com/kavichelvan
+- GitHub: https://github.com/kavichelvan
 </br>
-<a href="https://www.linkedin.com/in/kavichelvan/"><img src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/main/images/linkedin.svg" alt="kavi | LinkedIn" width="21px"/></a> LinkedIn: https://www.linkedin.com/in/kavichelvan/
+- LinkedIn: https://www.linkedin.com/in/kavichelvan/
 </br>
-<a href="p.kavichelvan@gmail.com"><img  src="https://raw.githubusercontent.com/kavichelvan/kavichelvan/main/images/gmail1.png" alt="kavi | GMAIL" width="21px"/></a> Email: p.kavichelvan@gmail.com 
+- Email: p.kavichelvan@gmail.com 
 
 ## 💼 Stacks I work with
 ### Current
