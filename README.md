@@ -13,7 +13,7 @@ I'm a Developer 💻!
 </h2> 
 
 # 😄 About me 
-I'm a developer. I like to work with AWS, MongoDB, NodeJS and React. Currently learning python.
+I'm a Full stack lead developer. I like to work with AWS, MongoDB, NodeJS and React. Currently learning python.
 - 🔭 I’m currently working on AWS, MongoDB, NodeJS and React.
 - 🌱 I’m currently learning AWS and Python.
 - 🤔 I’m looking for help with React Js webapp being hosted serverless in either AWS or heroku.
